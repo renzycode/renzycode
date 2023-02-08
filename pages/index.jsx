@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Image from "next/image";
 import styles from "@/styles/Home.module.css";
 import Link from "next/link";
 import style from "../components/style.module.css";
@@ -7,7 +8,6 @@ import { useState, useEffect } from "react";
 import Banner from "../components/banner";
 import CodingSkills from "../components/codingskills";
 import Projects from "../components/projects";
-
 
 function BgVideo(props) {
   if (props.theme == "dark") {
@@ -50,7 +50,10 @@ const Home = () => {
 
   return (
     <>
-      <div style={{width: "100%", height: "100vh",}} className={darkTheme ? "dark" : " "}>
+      <div
+        style={{ width: "100%", height: "100vh" }}
+        className={darkTheme ? "dark" : " "}
+      >
         <Head>
           <title>Renzy John Minerva</title>
         </Head>
@@ -58,7 +61,8 @@ const Home = () => {
 
         <main
           className=" dark:bg-black dark:bg-opacity-70 bg-white bg-opacity-80 px-10 lg:px-60 md:px-30 sm:px-5"
-          style={{position: "absolute",top: "0",}}>
+          style={{ position: "absolute", top: "0" }}
+        >
           <section className="min-h-screen">
             <nav className="py-10 flex justify-between">
               <h1 className="text-black dark:text-white"> RenzyCode</h1>
@@ -85,6 +89,7 @@ const Home = () => {
           <CodingSkills />
 
           <Projects />
+
 
         </main>
       </div>

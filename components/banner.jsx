@@ -14,12 +14,7 @@ const Banner = () => {
           Programmer | Web Developer | Music Producer
         </h3>
         <p className="text-md py-2 leading-6 dark:text-gray-400 text-gray-500">
-          I Am Renzy John Minerva, My passion belongs to coding and designing.
-          Moreover, I am also an aspiring Web Developer who can make both front
-          and back-end of a website. Also I am fond of making applications using
-          Python and Java Programming Laguages. On the other hand, I am also a
-          Music Producer and one of the artist of Minerva Bros under the genre
-          called EDM
+        I am Renzy John Minerva. My passion is coding and designing. Moreover, I am also an aspiring web developer who can make both the front and back-end of a website. Also, I am fond of making applications using Python and Java programming languages. On the other hand, I am also a music producer and one of the artists of Minerva Bros in the genre called EDM.
         </p>
       </div>
       <div className="text-5xl flex justify-center gap-16 py-2 text-gray-900">
