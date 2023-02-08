@@ -1,7 +1,7 @@
 const Progressbar = (props) => {
   return (
-    <div>
-      <div class="mb-1 text-lg font-medium text-black flex">{props.title}</div>
+    <div className="">
+      <div class="mb-1 text-lg font-medium text-black flex dark:text-gray-200">{props.title}</div>
       <div class="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
         <div
           style={{ width: props.percent }}
