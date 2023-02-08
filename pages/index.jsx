@@ -94,7 +94,7 @@ const Home = () => {
             <AiFillYoutube className="bg-gradient-to-br dark:from-green-700 dark:to-green-900 to-blue-400 dark:text-black p-0.1 rounded"/>
           </div>
           <div className="mx-auto bg-gradient-to-br dark:from-green-700 dark:to-black from-green-200 to-blue-400 relative rounded-full w-80 h-80 my-10">
-            <Image src={myimg} className="rounded-full" />
+            <Image src={myimg} className="rounded-full" alt="profile"/>
           </div>
         </section>
         <section className="py-5">
@@ -134,6 +134,7 @@ const Home = () => {
                 height={"100%"}
                 layout="responsive"
                 src={card}
+                alt="card1"
               />
             </div>
             <div className="basis-1/3 lg:basis-1/4 md:basis-1/2 flex-1">
@@ -143,6 +144,7 @@ const Home = () => {
                 height={"100%"}
                 layout="responsive"
                 src={card}
+                alt="card2"
               />
             </div>
             <div className="basis-1/3 lg:basis-1/4  flex-1">
@@ -152,6 +154,7 @@ const Home = () => {
                 height={"100%"}
                 layout="responsive"
                 src={card}
+                alt="card3"
               />
             </div>
           </div>
