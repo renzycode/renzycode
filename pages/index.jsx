@@ -55,6 +55,10 @@ const Home = () => {
         className={darkTheme ? "dark" : " "}
       >
         <Head>
+        <meta
+  name="RenzyCode"
+  content=" I am Renzy John Minerva. My passion is coding and designing. Moreover, I am also an aspiring web developer who can make both the front and back-end of a website. Also, I am fond of making applications using Python and Java programming languages. On the other hand, I am also a music producer and one of the artists of Minerva Bros in the genre called EDM."
+/>
           <title>Renzy John Minerva</title>
         </Head>
         <BgVideo theme={darkTheme ? "dark" : " "} />
