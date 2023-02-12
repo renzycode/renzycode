@@ -4,13 +4,13 @@ import Image from "next/image";
 const Projects = () => {
   return (
     <section className="py-10">
-      <div className="dark:bg-green-900 bg-white p-10 rounded-xl dark:bg-opacity-40 bg-opacity-40">
+      <div className="dark:bg-my-dark-blue bg-white p-10 rounded-xl dark:bg-opacity-40 bg-opacity-40">
         <h3 className="text-2xl py-1 dark:text-gray-200 text-gray-800 font-medium">
           Projects
         </h3>
         <p className="text-md py-2 leading-6 dark:text-gray-400 text-gray-600">
           When I was starting out as a{" "}
-          <span className="dark:text-green-600 text-blue-500">
+          <span className="dark:text-my-dark-blue text-blue-500">
             freelance web developer
           </span>
           , I did remote work for companies and created websites for businesses,

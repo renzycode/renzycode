@@ -79,7 +79,7 @@ const Home = () => {
                 </li>
                 <li>
                   <a
-                    className="bg-gradient-to-r dark:from-green-500 dark:to-green-800 from-green-300 to-blue-400 text-white px-4 py-2 rounded-md ml-8"
+                    className="bg-gradient-to-r dark:from-my-white-blue dark:to-my-dark-blue from-green-300 to-blue-400 text-white px-4 py-2 rounded-md ml-8"
                     href="#"
                   >
                     Resume
