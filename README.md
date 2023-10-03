@@ -1,11 +1,35 @@
-I am Renzy John Minerva.
+# Hi there, I'm Renzy John Minerva! 👋
 
-My passion is coding and designing. Moreover, I am also an aspiring web developer who can make both the front and back end of a website.
+I'm a passionate coder, web developer, automation enthusiast, multimedia creator, and EDM artist. Welcome to my GitHub profile, where I share my projects and contributions to the tech world.
 
-The web technologies that I've been using for web applications are Laravel, PHP, Javascript, Reactjs, Expressjs, HTML, CSS, and more. Also, I am fond of making applications using Python, C++ and Java programming languages.
+## 🔧 Technologies & Tools
 
-I have knowledge in building automation systems using Arduino, Raspberry Pi, Orange Pi, and Node MCU. I am skilled in editing photo, videos, Logo making by the use of Adobe Photoshop, Canva, Illustrator, Premiere, Vegas Pro, and Filmora.
+I work with a wide range of technologies and tools, including:
 
-On the other hand, I am also a music producer and one of the artists of Minerva Bros in the genre called EDM.
+- **Web Development:** Laravel, PHP, JavaScript, React.js, Express.js, HTML, CSS
+- **Programming Languages:** Python, C++, Java
+- **Embedded Systems:** Arduino, Raspberry Pi, Orange Pi, Node MCU
+- **Multimedia Editing:** Adobe Photoshop, Canva, Illustrator, Premiere, Vegas Pro, Filmora
 
-The biggest project that I built is our thesis project named 'Maria' which can speak and recognize the Filipino language and control home appliances at home, also it has a web system where you can control your appliances manually.
+## 🌟 Notable Projects
+
+- **Maria - Home Automation System:** Our thesis project that can speak and recognize the Filipino language, control home appliances, and features a web interface for manual control.
+
+## 🎵 Music Production
+
+I'm also a music producer and part of the EDM duo Minerva Bros. Check out our tracks [here](link-to-your-music)!
+
+## 🌐 Connect with Me
+
+Let's connect and collaborate! You can find me on various platforms:
+
+- [GitHub](https://github.com/YourGitHubUsername)
+- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
+- [Twitter](https://twitter.com/YourTwitterHandle)
+
+## 📫 Contact
+
+Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com) for any inquiries or collaborations.
+
+Thanks for stopping by! 😊
+
