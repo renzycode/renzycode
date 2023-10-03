@@ -25,11 +25,13 @@ Let's connect and collaborate! You can find me on various platforms:
 
 - [GitHub](https://github.com/YourGitHubUsername)
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- [Twitter](https://twitter.com/YourTwitterHandle)
+- [Facebook](https://twitter.com/YourTwitterHandle)
+- [Youtube](https://twitter.com/YourTwitterHandle)
+- [Spotify](https://twitter.com/YourTwitterHandle)
 
 ## 📫 Contact
 
-Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com) for any inquiries or collaborations.
+Feel free to reach out to me at [renzyjohnm1@gmail.com](mailto:renzyjohnm1@gmail.com) for any inquiries or collaborations.
 
 Thanks for stopping by! 😊
 
