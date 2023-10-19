@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm&psig=AOvVaw23bWbzE8dpFfmzyBw2rx9M&ust=1697819596708000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjJ0YHFgoIDFQAAAAAdAAAAABAE" width="200"/>
+  <img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/renzy-john-minerva-9a41b5288">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
