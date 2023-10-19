@@ -66,8 +66,10 @@ Feel free to reach out to me at [renzyjohnm1@gmail.com](mailto:renzyjohnm1@gmail
 Thanks for stopping by! 😊
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=renzycode&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=renzycode&theme=dark&background=000000)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzycode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzycode&layout=compact&theme=vision-friendly-dark)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=renzycode&show_icons=true&locale=en&theme=dark&background=000000)]
 
 
