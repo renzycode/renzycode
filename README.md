@@ -33,7 +33,9 @@ I work with a wide range of technologies and tools, including:
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
@@ -57,19 +59,15 @@ I work with a wide range of technologies and tools, including:
 
 I'm also a music producer and part of the EDM duo Minerva Bros. Check out our tracks [here](link-to-your-music)!
 
-## 🌐 Connect with Me
-
-Let's connect and collaborate! You can find me on various platforms:
-
-- [GitHub](https://github.com/YourGitHubUsername)
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- [Facebook](https://twitter.com/YourTwitterHandle)
-- [Youtube](https://twitter.com/YourTwitterHandle)
-- [Spotify](https://twitter.com/YourTwitterHandle)
-
 ## 📫 Contact
 
 Feel free to reach out to me at [renzyjohnm1@gmail.com](mailto:renzyjohnm1@gmail.com) for any inquiries or collaborations.
 
 Thanks for stopping by! 😊
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?renzycode&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?renzycode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
